@@ -40,4 +40,4 @@ Any changes will be reflected on this page.
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-Email: yourname@gmail.com
+Email: genaiapps92@gmail.com
