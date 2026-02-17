@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Daily Expense Tracker respects your privacy.
+Salary Expense Tracker respects your privacy.
 
-This Privacy Policy explains how we collect, use, and protect your information when you use the Daily Expense Tracker app.
+This Privacy Policy explains how we collect, use, and protect your information when you use the Salary Expense Tracker app.
 
 ## Information Collection
 We do NOT collect any personal information.
@@ -27,11 +27,11 @@ We do not upload, share, or sell your data.
 The app uses the following third-party service:
 - Google AdMob
 
-Please refer to Google’s privacy policy:
+Please refer to Google's privacy policy:
 https://policies.google.com/privacy
 
-## Children’s Privacy
-Daily Expense Tracker does not knowingly collect data from children under the age of 13.
+## Children's Privacy
+Salary Expense Tracker does not knowingly collect data from children under the age of 13.
 
 ## Changes to This Policy
 This privacy policy may be updated from time to time.
